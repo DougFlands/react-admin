@@ -1,0 +1,15 @@
+.loginForm {
+  input {
+    height: 40px;
+    font-size: 16px;
+  }
+  .btm {
+    min-width: 300px;
+    .textBtn {
+      float: right;
+    }
+    .loginBtn {
+      width: 100%;
+    }
+  }
+}

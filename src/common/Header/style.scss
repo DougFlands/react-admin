@@ -1,0 +1,19 @@
+.wrap {
+  background: #fff;
+  padding: 0;
+  .userInfo {
+    float: right;
+    margin-right: 20px;
+    height: 64px;
+    padding: 0 10px;
+    cursor: pointer;
+    transition: all .5s;
+    &:hover {
+      background: #F9F9F9;
+    }
+    .userName {
+      line-height: 64px;
+      margin-left: 10px;
+    }
+  }
+}

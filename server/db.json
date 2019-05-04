@@ -1,0 +1,12 @@
+{
+  "login": {
+    "errcode": 0,
+    "errinfo": "",
+    "data": {
+      "username": "123",
+      "sessionid": "123"
+    }
+  },
+  "register": {},
+  "test": {}
+}
